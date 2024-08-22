@@ -10,6 +10,7 @@ Applications/others: Vscode, WebStrom, Ms.Office, GitHub, Git, Firebase, SourceT
 
 
 Currently looking for a full-time roles Frontend/Full Stack Engineering, UI/UX, Software Development or Data Analytics.
+
 I would love to discuss potential opportunities.
 
 
