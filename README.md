@@ -3,6 +3,7 @@ An experienced Frontend Engineer dedicated to crafting engaging and accessible d
 I'm fueled by a profound passion for frontend development, dedicated to crafting functional user experiences and captivating interfaces through clean code. 
 
 I'm skilled at -
+
 Languages/ Technologies: HTML, CSS, JavaScript, SCSS, jQuery, C++, Bootstrap, GSAP, React, Express, Tableau, SQL, Python, Node.js
 Applications/others: Vscode, WebStrom, Ms.Office, GitHub, Git, Firebase, SourceTree, Arduino, FileZilla, Agile Methodology
 
