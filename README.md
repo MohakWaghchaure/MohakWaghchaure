@@ -10,7 +10,7 @@ I'm fueled by a profound passion for frontend development, dedicated to crafting
 - Applications/others: Vscode, WebStrom, Ms.Office, GitHub, Git, Firebase, SourceTree, Arduino, FileZilla, Agile Methodology
 
 
-💬 Currently looking for a full-time roles Frontend/Full Stack Engineering, UI/UX, Software Development or Data Analytics. I would love to discuss potential opportunities.
+💬 Currently working as a UX Engineer and open for full-time roles Frontend/Full Stack Engineering, UI/UX, Software Development or Data Analytics. I would love to discuss potential opportunities.
 
 
 <!--
