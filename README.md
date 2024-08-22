@@ -5,7 +5,7 @@ I'm fueled by a profound passion for frontend development, dedicated to crafting
 
 I'm skilled at -
 
-Languages/ Technologies: HTML, CSS, JavaScript, SCSS, jQuery, C++, Bootstrap, GSAP, React, Next, Express, Tableau, SQL, Python, Node.js
+Languages/ Technologies: HTML, CSS, JavaScript, SCSS, jQuery, C++, Bootstrap, GSAP, React, Next, Express, Tableau, SQL, Python, Node.js, Tailwind
 Applications/others: Vscode, WebStrom, Ms.Office, GitHub, Git, Firebase, SourceTree, Arduino, FileZilla, Agile Methodology
 
 
