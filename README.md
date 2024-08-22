@@ -3,11 +3,11 @@ An experienced Frontend Engineer dedicated to crafting engaging and accessible d
 I'm fueled by a profound passion for frontend development, dedicated to crafting functional user experiences and captivating interfaces through clean code. 
 
 
-I'm skilled at -
+⚡ I'm skilled at -
 
-⚡ Languages/ Technologies: HTML, CSS, JavaScript, SCSS, jQuery, C++, Bootstrap, GSAP, React, Next, Express, Tableau, SQL, Python, Node.js, Tailwind
+Languages/ Technologies: HTML, CSS, JavaScript, SCSS, jQuery, C++, Bootstrap, GSAP, React, Next, Express, Tableau, SQL, Python, Node.js, Tailwind
 
-⚡ Applications/others: Vscode, WebStrom, Ms.Office, GitHub, Git, Firebase, SourceTree, Arduino, FileZilla, Agile Methodology
+Applications/others: Vscode, WebStrom, Ms.Office, GitHub, Git, Firebase, SourceTree, Arduino, FileZilla, Agile Methodology
 
 
 💬 Currently looking for a full-time roles Frontend/Full Stack Engineering, UI/UX, Software Development or Data Analytics. I would love to discuss potential opportunities.
