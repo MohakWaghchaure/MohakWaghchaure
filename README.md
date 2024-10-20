@@ -5,10 +5,10 @@ I'm fueled by a profound passion for frontend development, dedicated to crafting
 
 ⚡ I'm skilled at -
 
-- Technologies: HTML, CSS, SCSS, JavaScript, Typescript, Node, React, Next, Express, C++, Java, Go, Python, SQL, MongoDB, FastAPI, GraphQL
+- Technologies: HTML, CSS, SCSS, JavaScript, Typescript, Node, React, Next, Express, C++, Java, Python, SQL, MongoDB, FastAPI, GraphQL
 
-- Frameworks: Flexboxgrid, Bootstrap, Tailwind, MaterialUI, jQuery, GSAP, EJS, Pandas, NumPy, Jest, D3js, ReactFlow, Spring, Spring Boot
-
+- Frameworks: Flexboxgrid, Bootstrap, Tailwind, MaterialUI, jQuery, GSAP, EJS, Pandas, NumPy, Jest, D3js, ReactFlow
+  
 - Tools: Vscode, WebStrom, Tableau, GitHub, Git, Firebase, SourceTree, Redux, Postman, Swagger, Vercel, Docker, GCP, Figma, Npm, Webpack
 
 - Methodologies:  Agile development, Version control, CI/CD, SEO, User-centered design, CMS technologies, RESTAPI, Microservices
